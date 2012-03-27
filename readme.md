@@ -1,0 +1,1 @@
+## Proto: Barebones starter project for quick prototypes for any project.
